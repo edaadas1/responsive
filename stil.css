@@ -1,0 +1,18 @@
+body{
+    background-color: #F8EDE3;
+}
+
+.carousel-item img{
+    height: 750px;
+    width: auto;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: black;
+    border-bottom: 1px solid black;
+}
