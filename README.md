@@ -1,2 +1,2 @@
-# https://edaadas1.github.io/responsive/
+https://edaadas1.github.io/responsive/
 # responsive
